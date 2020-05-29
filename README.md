@@ -1,4 +1,4 @@
-# Cross-sectional plane
+# Cross-sectional plane using OpenGL library
 
 A simple example of programming cross-sectional planes for intersecting five geometric bodies, using C++ and OpenGL library. Bodies can rotate, and the cross-sectional plane can move in the direction of one axis.
 
