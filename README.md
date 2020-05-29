@@ -1,5 +1,7 @@
 # Presecna-ravan
 
+A simple example of programming cross-sectional planes for intersecting five geometric bodies, using the OpenGL library. Bodies can rotate, and the cross-sectional plane can move in the direction of one axis.
+
 ![image](https://user-images.githubusercontent.com/20281331/83183155-aa3ad400-a127-11ea-84ea-94b0ebfb8f49.png)
 ![image1](https://user-images.githubusercontent.com/20281331/83183166-adce5b00-a127-11ea-86cc-b9bc1bee93cb.png)
 ![image2](https://user-images.githubusercontent.com/20281331/83183177-b2930f00-a127-11ea-8729-e6944db16cfa.png)
